@@ -1,6 +1,6 @@
 # Limited
 
-Tool was updated V1.2
+Tool Facebook was updated V1.2
 
 #Commands:
 
