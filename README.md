@@ -20,7 +20,7 @@ Tool was updated V1.2
 
 ☆ pip2 install mechanize
 
-☆ git clone https://github.com/AXEYEDKHA/Limited
+☆ git clone https://github.com/AXEYEDKHA/Limited.git
 
 ☆ cd Limited
 
